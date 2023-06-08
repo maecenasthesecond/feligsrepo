@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Valorant";
+  src: url("./assets/valofont.ttf") format("truetype");
+}
+
+* {
+  margin: 0;
+}
